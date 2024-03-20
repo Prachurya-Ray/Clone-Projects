@@ -1,3 +1,3 @@
 # Razorpay Clone
-### HTML5, CSS, Tailwind
+### _HTML5, CSS, Tailwind_
 
